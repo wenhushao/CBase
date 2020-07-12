@@ -5,7 +5,7 @@ void main()
 {
     int A;
     printf("Input numbers A=");
-    scanf("%d", &A);//¹Ø±ÕÊôÐÔSDL¼ì²é
+    scanf("%d", &A);//å…³é—­å±žæ€§SDLæ£€æŸ¥
     //scanf_s("%d", &A);
     if (A > 0)
     {
